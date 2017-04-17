@@ -1,0 +1,26 @@
+{
+  "name": "sql-criteria-parser",
+  "version": "0.1.0",
+  "description": "sql criteria expression parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unicreators/sql-criteria-parser.git"
+  },
+  "keywords": [
+    "expression-parser",
+    "sql"
+  ],
+  "author": "yichen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unicreators/sql-criteria-parser/issues"
+  },
+  "homepage": "https://github.com/unicreators/sql-criteria-parser#readme",
+  "dependencies": {
+    "object-expression-parser": "^0.1.0"
+  }
+}
