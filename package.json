@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/unicreators/sql-criteria-parser#readme",
   "dependencies": {
-    "object-expression-parser": "^0.1.0"
+    "object-expression-parser": "~0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
   }
 }
